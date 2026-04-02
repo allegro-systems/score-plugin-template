@@ -22,7 +22,7 @@ Follow Score's **one modifier per CSS concept** rule:
 .flex(.row, gap: 12)           // flex container
 .font(.sans, size: 14)        // all typography in one modifier
 .border(width: 1, color: .border, style: .solid)
-.radius(8)
+.border(radius: 8)
 ```
 
 ### Never Use Inline JS or CSS
